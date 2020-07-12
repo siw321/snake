@@ -1,0 +1,4 @@
+C:/Users/siw/ascii_doom/out/build/x64-Debug/CMakeFiles/ascii_doom.dir
+C:/Users/siw/ascii_doom/out/build/x64-Debug/CMakeFiles/olcConsoleGameEngine.dir
+C:/Users/siw/ascii_doom/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/siw/ascii_doom/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
